@@ -39,6 +39,7 @@ How many pages:2
 1 http://www.dr-chuck.com/ 12
 
 2 http://www.dr-chuck.com/csev-blog/ 57
+
 How many pages:
 
 In this sample run, we told it to crawl a website and retrieve two 
