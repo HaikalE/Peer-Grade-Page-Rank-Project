@@ -1,7 +1,7 @@
 # Peer-Grade-Page-Rank-Project
 First you will spider 100 pages from http://python-data.dr-chuck.net/ run the page rank algorithm and take some screen shots. Then you will reset the spider process and spider 100 pages from any other site on the Internet, run the page rank algorithm, and take some screen shots.
 
-#Simple Python Search Spider, Page Ranker, and Visualizer
+Simple Python Search Spider, Page Ranker, and Visualizer
 
 This is a set of programs that emulate some of the functions of a 
 search engine.  They store their data in a SQLITE3 database named
