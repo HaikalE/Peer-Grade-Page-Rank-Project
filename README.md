@@ -211,4 +211,18 @@ A ) Spider 100 pages from http://python-data.dr-chuck.net/
 4. Screenshoot of force.html
 ![3](https://user-images.githubusercontent.com/89823572/184092832-f3890a3f-2d79-4e5b-b659-893b1d4d2b46.jpg)
 
+A ) Spider 100 pages from http://python-data.dr-chuck.net/
+1. Image of output spider.py
+![1](https://user-images.githubusercontent.com/89823572/184090933-d1b4678d-2591-4b5b-a643-008a5b427769.jpg)
+![2](https://user-images.githubusercontent.com/89823572/184090961-f2c64cbb-f1b3-4afd-9170-e6e45604ec5b.jpg)
+
+2. Image of output spjson.py
+![4](https://user-images.githubusercontent.com/89823572/184091778-78686d0c-db45-46cc-9a63-9a551fae83f7.jpg)
+
+3. Image of output spdump.py
+![3 ](https://user-images.githubusercontent.com/89823572/184092932-2b6d8167-6b6a-499e-bfed-3c8747cc5149.jpg)
+
+
+4. Screenshoot of force.html
+![3](https://user-images.githubusercontent.com/89823572/184092832-f3890a3f-2d79-4e5b-b659-893b1d4d2b46.jpg)
 
