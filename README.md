@@ -31,8 +31,10 @@ Win: del spider.sqlite
 Win: spider.py
 
 Enter web url or enter: http://www.dr-chuck.com/
+
 ['http://www.dr-chuck.com']
 How many pages:2
+
 1 http://www.dr-chuck.com/ 12
 
 2 http://www.dr-chuck.com/csev-blog/ 57
