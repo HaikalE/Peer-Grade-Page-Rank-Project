@@ -59,6 +59,7 @@ How many pages:3
 4 http://www.dr-chuck.com/dr-chuck/resume/speaking.htm 1
 
 5 http://www.dr-chuck.com/dr-chuck/resume/index.htm 13
+
 How many pages:
 
 You can have multiple starting points in the same database - 
@@ -109,6 +110,7 @@ Win: spdump.py
 (1, 1.0, 0.659, 2, u'http://www.dr-chuck.com/csev-blog/')
 
 (1, 1.0, 0.659, 5, u'http://www.dr-chuck.com/dr-chuck/resume/index.htm')
+
 4 rows.
 
 You can run sprank.py as many times as you like and it will simply refine
