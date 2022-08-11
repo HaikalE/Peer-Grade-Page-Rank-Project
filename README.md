@@ -194,7 +194,8 @@ pip install beautifulsoup4
 
 ASSIGNMENT  : First you will spider 100 pages from http://python-data.dr-chuck.net/ run the page rank algorithm and take some screen shots. Then you will reset the spider process and spider 100 pages from any other site on the Internet, run the page rank algorithm, and take some screen shots.
 
-SOLUTION    : 
+SOLUTION    :
+A ) Spider 100 pages from http://python-data.dr-chuck.net/
 1. Image of output spider.py
 ![1](https://user-images.githubusercontent.com/89823572/184090933-d1b4678d-2591-4b5b-a643-008a5b427769.jpg)
 ![2](https://user-images.githubusercontent.com/89823572/184090961-f2c64cbb-f1b3-4afd-9170-e6e45604ec5b.jpg)
