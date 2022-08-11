@@ -1,6 +1,4 @@
 # Peer-Grade-Page-Rank-Project
-First you will spider 100 pages from http://python-data.dr-chuck.net/ run the page rank algorithm and take some screen shots. Then you will reset the spider process and spider 100 pages from any other site on the Internet, run the page rank algorithm, and take some screen shots.
-
 Simple Python Search Spider, Page Ranker, and Visualizer
 
 This is a set of programs that emulate some of the functions of a 
@@ -191,10 +189,12 @@ This shows an automatic layout of the nodes and links.  You can click and
 drag any node and you can also double click on a node to find the URL
 that is represented by the node.
 
-NOTES : If your python compiler version is up to 3.8 you must delete folder bs4 and you can install in terminal 
+NOTES       : If your python compiler version is up to 3.8 you must delete folder bs4 and you can install in terminal 
 pip install beautifulsoup4
 
-SOLUTION : 
+ASSIGNMENT  : First you will spider 100 pages from http://python-data.dr-chuck.net/ run the page rank algorithm and take some screen shots. Then you will reset the spider process and spider 100 pages from any other site on the Internet, run the page rank algorithm, and take some screen shots.
+
+SOLUTION    : 
 1. Image of output spider.py
 ![1](https://user-images.githubusercontent.com/89823572/184090933-d1b4678d-2591-4b5b-a643-008a5b427769.jpg)
 ![2](https://user-images.githubusercontent.com/89823572/184090961-f2c64cbb-f1b3-4afd-9170-e6e45604ec5b.jpg)
