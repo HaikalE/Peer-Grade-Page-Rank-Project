@@ -165,6 +165,7 @@ How many iterations:50
 49 5.61236959327e-05
 
 50 5.10410499467e-05
+
 [(512, 0.02963718031139026), (1, 12.790786721866658), (2, 28.939418898678284), (3, 6.808468390725946), (4, 13.469889092397006)]
 
 For each iteration of the page rank algorithm it prints the average
@@ -178,6 +179,7 @@ run spjson.py to write the pages out in JSON format to be viewed in a
 web browser.
 
 Mac: python3 spjson.py 
+
 Win: spjson.py 
 
 Creating JSON output on spider.js...
