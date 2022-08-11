@@ -217,10 +217,9 @@ A ) Spider 100 pages from http://python-data.dr-chuck.net/
 
 
 2. Image of output spjson.py
-![4](https://user-images.githubusercontent.com/89823572/184091778-78686d0c-db45-46cc-9a63-9a551fae83f7.jpg)
+![5](https://user-images.githubusercontent.com/89823572/184143923-488be0be-b0c7-41bf-97cf-a239970fb92d.jpg)
 
 3. Image of output spdump.py
-![5](https://user-images.githubusercontent.com/89823572/184143923-488be0be-b0c7-41bf-97cf-a239970fb92d.jpg)
 ![7](https://user-images.githubusercontent.com/89823572/184145665-d8e47509-a576-4a1f-acd1-d0fb069805d8.jpg)
 
 
