@@ -67,7 +67,6 @@ run spdump.py as follows:
 
 Mac: python3 spdump.py 
 Win: spdump.py
-
 (5, None, 1.0, 3, u'http://www.dr-chuck.com/csev-blog')
 
 (3, None, 1.0, 4, u'http://www.dr-chuck.com/dr-chuck/resume/speaking.htm')
