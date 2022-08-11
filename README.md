@@ -66,8 +66,11 @@ Mac: python3 spdump.py
 Win: spdump.py
 
 (5, None, 1.0, 3, u'http://www.dr-chuck.com/csev-blog')
+
 (3, None, 1.0, 4, u'http://www.dr-chuck.com/dr-chuck/resume/speaking.htm')
+
 (1, None, 1.0, 2, u'http://www.dr-chuck.com/csev-blog/')
+
 (1, None, 1.0, 5, u'http://www.dr-chuck.com/dr-chuck/resume/index.htm')
 4 rows.
 
