@@ -199,4 +199,12 @@ SOLUTION :
 ![1](https://user-images.githubusercontent.com/89823572/184090933-d1b4678d-2591-4b5b-a643-008a5b427769.jpg)
 ![2](https://user-images.githubusercontent.com/89823572/184090961-f2c64cbb-f1b3-4afd-9170-e6e45604ec5b.jpg)
 
-2. 
+2. Image of output spjson.py
+![4](https://user-images.githubusercontent.com/89823572/184091778-78686d0c-db45-46cc-9a63-9a551fae83f7.jpg)
+
+3. Image of output spdump.py
+![4](https://user-images.githubusercontent.com/89823572/184091899-bbb19768-686f-4691-904e-33381675588d.jpg)
+
+4. Screenshoot of force.html
+https://user-images.githubusercontent.com/89823572/184092382-45b2e5a4-e174-4dfa-9500-a475425cd1ab.mp4
+
