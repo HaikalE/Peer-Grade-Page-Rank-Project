@@ -25,9 +25,11 @@ to type the following command before running this code:
 http://stackoverflow.com/questions/388490/unicode-characters-in-windows-command-line-how
 
 Mac: rm spider.sqlite
+
 Mac: python3 spider.py
 
 Win: del spider.sqlite
+
 Win: spider.py
 
 Enter web url or enter: http://www.dr-chuck.com/
