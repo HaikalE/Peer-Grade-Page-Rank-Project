@@ -6,8 +6,7 @@ Simple Python Search Spider, Page Ranker, and Visualizer
 This is a set of programs that emulate some of the functions of a 
 search engine.  They store their data in a SQLITE3 database named
 'spider.sqlite'.  This file can be removed at any time to restart the
-process.   
-<img width="315" alt="Screenshot 2022-08-06 065724" src="https://user-images.githubusercontent.com/89823572/184089597-74fa636e-cfee-40b1-8788-69fd9860c9ce.png">
+process.
 
 You should install the SQLite browser to view and modify 
 the databases from:
@@ -192,4 +191,12 @@ This shows an automatic layout of the nodes and links.  You can click and
 drag any node and you can also double click on a node to find the URL
 that is represented by the node.
 
-This visualization is provided using the force layout from:
+NOTES : If your python compiler version is up to 3.8 you must delete folder bs4 and you can install in terminal 
+pip install beautifulsoup4
+
+SOLUTION : 
+1. Image of output spider.py
+![1](https://user-images.githubusercontent.com/89823572/184090933-d1b4678d-2591-4b5b-a643-008a5b427769.jpg)
+![2](https://user-images.githubusercontent.com/89823572/184090961-f2c64cbb-f1b3-4afd-9170-e6e45604ec5b.jpg)
+
+2. 
